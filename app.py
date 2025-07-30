@@ -32,5 +32,5 @@ if st.button("Predict Price"):
 
 # Footer
 st.markdown("---")
-st.markdown("**Author**: Somya Nigam")
-[LinkedIn Profile](https://www.linkedin.com/in/somya-nigam-789408183/)")
+st.markdown("**Author**: Somya Nigam  \n[LinkedIn Profile](https://www.linkedin.com/in/somya-nigam-789408183/)")
+
